@@ -18,7 +18,7 @@
 
 Browse by model. Each collection credits the creators and links to the original posts, with prompts or agent skills where available.
 
-- **Gemini 4:** [Neon](https://github.com/motionvideohq/awesome-gemini-4-neon-motion-design) · [Carbon](https://github.com/motionvideohq/awesome-gemini-4-carbon-motion-design) · [Argon](https://github.com/motionvideohq/awesome-gemini-4-argon-motion-design)
+- **Gemini 4:** [Neon](https://github.com/motionvideohq/awesome-gemini-4-neon-motion-design) · [Hydrogen](https://github.com/motionvideohq/awesome-gemini-4-hydrogen-motion-design) · [Carbon](https://github.com/motionvideohq/awesome-gemini-4-carbon-motion-design) · [Argon](https://github.com/motionvideohq/awesome-gemini-4-argon-motion-design)
 - **Claude Fable:** [5.5](https://github.com/motionvideohq/awesome-fable-5-5-motion-design) · [5.2](https://github.com/motionvideohq/awesome-fable-5-2-motion-design) · [5.1](https://github.com/motionvideohq/awesome-fable-5-1-motion-design) · [5](https://github.com/motionvideohq/awesome-fable-5-motion-design)
 - **Claude Mythos:** [5.2](https://github.com/motionvideohq/awesome-mythos-5-2-motion-design) · [5](https://github.com/motionvideohq/awesome-mythos-5-motion-design)
 - **Claude Opus:** [5.5](https://github.com/motionvideohq/awesome-opus-5-5-motion-design)
